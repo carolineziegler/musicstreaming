@@ -6,7 +6,9 @@ Project Overview
 The project consists of the following main tasks:
 
 **Data Cleaning:** Refining the survey data to make it suitable for analysis. This includes renaming columns for better readability, handling missing values, and correcting inconsistencies in the data.
+
 **Data Analysis:** Extracting subsets of data for specific analyses, such as differentiating between customers and non-customers of music streaming services. Additionally, the project involves analyzing responses to free-form text questions using techniques like text clustering.
+
 **Visualization:** Creating visual representations of the data to better understand demographics, preferences, and other insights from survey respondents.
 
 ## **Getting Started**
